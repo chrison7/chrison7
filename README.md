@@ -1,25 +1,23 @@
-# Chrison Joju
-
-> **Cybersecurity Analyst | Security Researcher | Full-Stack Developer**
-
-```
-[root@chrison7 ~]# whoami
-Security Researcher & Full-Stack Engineer focusing on Browser Security, OSINT, and Web Applications.
-```
+<div align="center">
+  <img src="avatar.jpg" width="140" height="140" style="border-radius: 50%;" alt="Chrison Joju Avatar" />
+  <h1>Chrison Joju</h1>
+  <p><b>Cybersecurity Analyst | Security Researcher | Full-Stack Developer</b></p>
+  <p><i>Specializing in Web Application Security, Browser Permission Telemetry & Resilient Full-Stack Architecture</i></p>
+</div>
 
 ---
 
 ## Focus
 
-- **Web Application Security:** Auditing and hardening web platforms, permission control mechanisms, and API security.
-- **Browser Security & OSINT:** Researching client-side privacy, location telemetry, and browser permission models ([LOCLX](https://github.com/chrison7/loclx)).
-- **Full-Stack Development:** Building modern, performant web applications using Next.js, TypeScript, Python, and PHP.
+- **Web Application Security:** Auditing web platforms, access control models, and API security architectures.
+- **Browser Security & OSINT Research:** Investigating client-side location telemetry, browser permission boundaries, and OSINT analysis ([LOCLX](https://github.com/chrison7/loclx)).
+- **Full-Stack Software Engineering:** Architecting scalable, performant web applications using Next.js, TypeScript, Python, and PHP.
 
 ---
 
 ## Technical Stack
 
-### Languages & Core
+### Core Languages
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
