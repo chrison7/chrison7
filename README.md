@@ -1,9 +1,8 @@
-<div align="center">
-  <img src="avatar.jpg" width="140" height="140" style="border-radius: 50%;" alt="Chrison Joju Avatar" />
-  <h1>Chrison Joju</h1>
-  <p><b>Cybersecurity Analyst | Security Researcher | Full-Stack Developer</b></p>
-  <p><i>Specializing in Web Application Security, Browser Permission Telemetry & Resilient Full-Stack Architecture</i></p>
-</div>
+# Chrison Joju
+
+**Cybersecurity Analyst | Security Researcher | Full-Stack Developer**
+
+*Specializing in Web Application Security, Browser Permission Telemetry & Resilient Full-Stack Architecture*
 
 ---
 
