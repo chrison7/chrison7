@@ -1,4 +1,4 @@
-# Chrison Joju
+# Chrison Mathew Joju
 
 **Cybersecurity Analyst | Security Researcher | Full-Stack Developer**
 
